@@ -1,10 +1,4 @@
 # main links links
 main:
-  - title: "Works in Progress"
-    url: /publications/
-
-  - title: "Teaching"
-    url: /teaching/    
-
   - title: "CV"
     url: /cv/

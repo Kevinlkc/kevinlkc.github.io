@@ -12,9 +12,11 @@ Kaicheng Luo is a Pre-Doctoral Fellow in the Department of Economics at Harvard 
 
 Research
 ======
-# Works in progress
-Emigration during turbulent times, with Ben Olken and David Yang
+#### Works in progress
+- "Emigration during turbulent times", with Ben Olken and David Yang
+	- Presented at NYU Economic History Seminar [slides]()
 
-Life-cycles of policymaking, with Shaoda Wang and David Yang
+- "Life-cycles of policymaking", with Shaoda Wang and David Yang
+	- Presented at ASSA Annual Meeting, 2023 [slides]()
 
-Censorship as political favor
+- Censorship as political favor
