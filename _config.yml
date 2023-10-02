@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kaicheng (Kevin) Luo"
+title                    : "Kaicheng Luo"
 title_separator          : "-"
-name                     : &name "Kaicheng (Kevin) Luo"
+name                     : &name "Kaicheng Luo"
 description              : &description "Predoc at Harvard Econ"
-url                      : https://kevinlkc.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://kaichengluo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Kevinlkc/kevinlkc.github.io"
+repository               : "Kevinlkc/kaichengluo.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Kaicheng (Kevin) Luo"
+  name             : "Kaicheng Luo"
   avatar           : "profile.png"
-  bio              : 
-  location         : "Boston, MA"
+  bio              : "Kaicheng Luo is a Pre-Doctoral Fellow in the Department of Economics at Harvard University working under the supervision of Professor David Yang on political economy projects related to policy-learning, migration, censorship and industrial policies. Prior to joining Harvard, Kaicheng worked as a part time research assistant in the Energy Policy Institute at the University of Chicago. Kaicheng holds an LLB in Philosophy, Politics, and Economics (PPE) from Peking University. "
+  location         : "Cambridge, MA"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : kevinlkc0630@gmail.com
+  email            : "kevinlkc0630@gmail.com"
   researchgate     : 
   uri              :
   bitbucket        :
