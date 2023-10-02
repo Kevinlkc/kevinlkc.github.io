@@ -12,7 +12,7 @@ Kaicheng Luo is a Pre-Doctoral Fellow in the Department of Economics at Harvard 
 
 Research
 ======
-#### Works in progress
+### Works in progress
 - "Emigration during turbulent times", with Ben Olken and David Yang
 	- Presented at NYU Economic History Seminar [slides]()
 
