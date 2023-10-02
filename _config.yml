@@ -11,9 +11,9 @@ title                    : "Kaicheng Luo"
 title_separator          : "-"
 name                     : &name "Kaicheng Luo"
 description              : &description "Predoc at Harvard Econ"
-url                      : https://kaichengluo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://kevinlkc.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Kevinlkc/kaichengluo.github.io"
+repository               : "Kevinlkc/kevinlkc.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
