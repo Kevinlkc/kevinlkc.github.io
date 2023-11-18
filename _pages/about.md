@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Kaicheng Luo is a Pre-Doctoral Fellow in the Department of Economics at Harvard University working under the supervision of Professor David Yang on political economy projects related to policy-learning, migration, censorship and industrial policies. Prior to joining Harvard, Kaicheng worked as a part time research assistant in the Energy Policy Institute at the University of Chicago. Kaicheng holds an LLB in Philosophy, Politics, and Economics (PPE) from Peking University.
+Kaicheng Luo is a pre-doctoral fellow at Harvard University, Economics department. His research interest lies in Political Economy and Development Economics, broadly defined. He works closely with his PI, David Yang, on a wide variety of projects on topics like policy experimentation, emigration, and intergenerational wealth transmission. Prior to joining Harvard, Kaicheng holds an LLB in Philosophy, Politics, and Economics (PPE) from Peking University.
 
 Research
 ======
