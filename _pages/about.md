@@ -14,9 +14,9 @@ Research
 ======
 ### Works in progress
 - "Emigration during turbulent times", with Ben Olken and David Yang
-	- Presented at Harvard Economic History Seminar, NYU Economic History Seminar [slides](https://www.kaichengluo.com/files/emigration_slides.pdf), [draft](https://www.kaichengluo.com/files/emigration_draft.pdf)
+	- Presented at Harvard Economic History Seminar, NYU Economic History Seminar
 
 - "Life-cycles of policymaking", with Shaoda Wang and David Yang
-	- Presented at ASSA Annual Meeting, 2023 [slides](https://www.kaichengluo.com/files/experimentation_assa_20230107.pdf)
+	- Presented at ASSA Annual Meeting, 2023
 
 - Censorship as political favor
