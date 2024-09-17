@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Kaicheng Luo"
 title_separator          : "-"
 name                     : &name "Kaicheng Luo"
-description              : &description "Predoc at Harvard Econ"
+description              : &description "PhD @ MIT Economics"
 url                      : https://www.kaichengluo.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Kevinlkc/kevinlkc.github.io"
@@ -83,7 +83,7 @@ analytics:
 author:
   name             : "Kaicheng Luo"
   avatar           : "profile.png"
-  bio              : "Predoc at Harvard Economics"
+  bio              : "PhD @ MIT Economics"
   location         : "Cambridge, MA"
   employer         :
   pubmed           : 
