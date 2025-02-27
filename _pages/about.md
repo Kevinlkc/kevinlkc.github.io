@@ -13,8 +13,8 @@ Kaicheng Luo is a first-year PhD student at MIT Economics department. His resear
 Research
 ======
 ### Works in progress
-- "Emigration during turbulent times", with Ben Olken and David Yang [draft](https://www.kaichengluo.com/files/emigration_draft.pdf)
+- "Emigration during turbulent times", with Ben Olken and David Yang [[draft]](https://www.kaichengluo.com/files/emigration_draft.pdf)
 
-- "Life-cycles of policymaking", with Shaoda Wang and David Yang
+- "The Origin and Diffusion of Policy Ideas in China", with Shaoda Wang and David Yang
 
 - Censorship as political favor
