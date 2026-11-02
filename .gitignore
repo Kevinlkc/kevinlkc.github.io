@@ -1,2 +1,11 @@
 _site/
+.jekyll-cache/
+.sass-cache/
+.bundle/
+vendor/
+
+# Local OS, R, and notebook state
+.DS_Store
+.Rhistory
+.ipynb_checkpoints/
 
